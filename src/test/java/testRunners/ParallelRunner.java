@@ -22,6 +22,7 @@ import io.cucumber.testng.CucumberOptions;
 
 		}, 
 		dryRun = false,   
+		monochrome=true,
 		tags= "@sanity"  // this will execute only sanity
 		//tags= "@regression"  // this will execute only sanity
 		//tags="@sanity and @regression" // Executes scenarios with both @sanity and @regression
