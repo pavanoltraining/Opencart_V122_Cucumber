@@ -1,0 +1,347 @@
+20:38:13.251 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctcell842btype
+20:38:13.314 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stcellrefe4e0type
+20:38:13.403 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctcellformula3583type
+20:38:13.423 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stcellformulatypee2cdtype
+20:38:13.437 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctexternalreferencesd77ctype
+20:38:13.443 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctexternalreference945ftype
+20:38:13.457 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctdefinednamesce48type
+20:38:13.461 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctdefinedname9413type
+20:38:13.469 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stxstringf179type
+20:38:13.477 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stsheetstate158btype
+20:38:13.515 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stcelltypebf95type
+20:38:13.530 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctsheetprotection22f7type
+20:38:13.616 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stnumfmtid76fbtype
+20:38:13.619 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stfontid9d63type
+20:38:13.622 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stfillida097type
+20:38:13.625 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stborderid1a80type
+20:38:13.626 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stcellstylexfid70c7type
+20:38:13.635 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctcellalignmentb580type
+20:38:13.639 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stverticalalignmentd35ctype
+20:38:13.643 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctborderpre497type
+20:38:13.647 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stborderstylec774type
+20:38:13.655 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctcolord2c2type
+20:38:13.676 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctfontname2dc3type
+20:38:13.689 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctfontsizeb3b9type
+20:38:13.692 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctbooleanproperty1f3ctype
+20:38:13.718 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stunsignedinthex27datype
+20:38:13.739 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle sthorizontalalignmentf92etype
+20:38:13.769 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctdrawing44fdtype
+20:38:13.775 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctchartc108type
+20:38:13.783 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle cttitleb54etype
+20:38:13.818 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle cttx9678type
+20:38:13.822 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle cttextbodya3catype
+20:38:13.827 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle cttextparagraphcaf2type
+20:38:13.832 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctregulartextrun7e3dtype
+20:38:13.858 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctplotarea106etype
+20:38:13.867 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctcatax7159type
+20:38:13.876 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctunsignedinte8ectype
+20:38:13.880 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctvalaxd06etype
+20:38:13.890 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctbarchart4151type
+20:38:13.901 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctbardir5f42type
+20:38:13.910 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctbarser960ftype
+20:38:13.914 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctaxdatasource1440type
+20:38:13.918 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctnumdatasourcef0bbtype
+20:38:13.924 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctstrref5d1atype
+20:38:13.927 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctstrdatad58btype
+20:38:13.933 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctnumref062ftype
+20:38:13.936 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctnumdata4f16type
+20:38:13.985 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctworkbookpr03a5type
+20:38:14.006 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctbookviewsb864type
+20:38:14.009 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctbookviewf677type
+20:38:14.022 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle propertiesee84doctype
+20:38:14.040 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctproperties3f10type
+20:38:14.051 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle properties288cdoctype
+20:38:14.056 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctproperties2c18type
+20:38:14.067 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctfontfamily685ctype
+20:38:14.070 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stfontfamily9c6ctype
+20:38:14.075 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctfontschemebf5dtype
+20:38:14.078 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stfontschemef36dtype
+20:38:14.081 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctpatternfill7452type
+20:38:14.087 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stpatterntype7939type
+20:38:14.096 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctsheetformatprdef7type
+20:38:14.102 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctsheetviewsb918type
+20:38:14.106 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctsheetview0f43type
+20:38:14.116 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctsheetdimensiond310type
+20:38:14.119 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stref90a2type
+20:38:14.123 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctpagemargins5455type
+20:38:14.131 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctstrval86cctype
+20:38:14.138 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctnumval2fe1type
+20:38:14.145 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctpaneaab1type
+20:38:14.154 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stpane2ac1type
+20:38:14.155 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stpanestateae58type
+20:38:14.159 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctselectionca2btype
+20:38:14.173 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle cttwocellanchor1e8dtype
+20:38:14.180 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctmarkeree8etype
+20:38:14.187 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle strowidf4cftype
+20:38:14.208 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctcalccellb960type
+20:38:14.222 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctmergecells1242type
+20:38:14.226 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctmergecelle8d9type
+20:38:14.395 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctworkbookprotection56bctype
+20:38:14.458 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctnumfmtsb58btype
+20:38:14.556 [TestNG-test-Surefire test-1] DEBUG - Save content types part
+20:38:14.870 [TestNG-test-Surefire test-1] DEBUG - Save package relationships
+20:38:14.880 [TestNG-test-Surefire test-1] DEBUG - Save part 'docProps/app.xml'
+20:38:14.881 [TestNG-test-Surefire test-1] DEBUG - Save part 'docProps/core.xml'
+20:38:14.888 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/charts/chart1.xml'
+20:38:14.891 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/charts/chart2.xml'
+20:38:14.894 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/charts/chart3.xml'
+20:38:14.898 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/charts/chart4.xml'
+20:38:14.899 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/charts/chart5.xml'
+20:38:14.901 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/charts/chart6.xml'
+20:38:14.903 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/charts/chart7.xml'
+20:38:14.904 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/charts/chart8.xml'
+20:38:14.907 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/charts/chart9.xml'
+20:38:14.908 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/charts/chart10.xml'
+20:38:14.909 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/drawings/drawing1.xml'
+20:38:14.913 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/drawings/drawing2.xml'
+20:38:14.913 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/drawings/drawing3.xml'
+20:38:14.914 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/drawings/drawing4.xml'
+20:38:14.915 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/drawings/drawing5.xml'
+20:38:14.917 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/drawings/drawing6.xml'
+20:38:14.919 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/drawings/drawing7.xml'
+20:38:14.926 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/drawings/drawing8.xml'
+20:38:14.932 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/drawings/drawing9.xml'
+20:38:14.934 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/externalLinks/externalLink1.xml'
+20:38:14.942 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+20:38:14.943 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+20:38:14.944 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/printerSettings/printerSettings3.bin'
+20:38:14.945 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/printerSettings/printerSettings4.bin'
+20:38:14.945 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/printerSettings/printerSettings7.bin'
+20:38:14.945 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/sharedStrings.xml'
+20:38:14.946 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/styles.xml'
+20:38:14.947 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/theme/theme1.xml'
+20:38:14.948 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/workbook.xml'
+20:38:14.953 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+20:38:14.956 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+20:38:14.961 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+20:38:14.965 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+20:38:14.967 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+20:42:29.335 [main] TRACE - [Graph] ADDING NODE AbstractTestNGCucumberTests.setUpClass(org.testng.ITestContext)[pri:0, instance:null] -393284817
+20:42:29.339 [main] TRACE - [Graph] ================ SORTING
+20:42:29.342 [main] TRACE - [Graph] =============== DONE SORTING
+20:42:29.343 [main] TRACE - [Graph] ====== SORTED NODES
+20:42:29.343 [main] TRACE - [Graph] ====== END SORTED NODES
+20:42:29.343 [main] TRACE - [Graph] ADDING NODE AbstractTestNGCucumberTests.tearDownClass()[pri:0, instance:null] 1523153566
+20:42:29.343 [main] TRACE - [Graph] ================ SORTING
+20:42:29.343 [main] TRACE - [Graph] =============== DONE SORTING
+20:42:29.343 [main] TRACE - [Graph] ====== SORTED NODES
+20:42:29.343 [main] TRACE - [Graph] ====== END SORTED NODES
+20:42:29.360 [main] TRACE - [Graph] ADDING NODE AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunners.ParallelRunner@4044fb95] -72096666
+20:42:29.360 [main] TRACE - [Graph] ================ SORTING
+20:42:29.361 [main] TRACE - [Graph] =============== DONE SORTING
+20:42:29.361 [main] TRACE - [Graph] ====== SORTED NODES
+20:42:29.361 [main] TRACE - [Graph] ====== END SORTED NODES
+20:42:43.635 [TestNG-PoolService-1] INFO  - WebDriver initialized successfully for browser: safari
+20:42:44.766 [TestNG-PoolService-2] INFO  - WebDriver initialized successfully for browser: safari
+20:42:46.022 [TestNG-PoolService-1] INFO  - Navigated to application URL: https://naveenautomationlabs.com/opencart/
+20:42:46.888 [TestNG-PoolService-2] INFO  - Navigated to application URL: https://naveenautomationlabs.com/opencart/
+20:42:47.418 [TestNG-PoolService-1] INFO  - Clicked on 'My Account' link.
+20:42:48.642 [TestNG-PoolService-1] INFO  - Navigated to Login Page.
+20:42:49.376 [TestNG-PoolService-2] INFO  - Navigated to Registration page.
+20:42:53.343 [TestNG-PoolService-1] INFO  - Entered login credentials and clicked 'Login'.
+20:42:55.188 [TestNG-PoolService-1] INFO  - Login successful. 'My Account' page is displayed.
+20:42:55.278 [TestNG-PoolService-2] INFO  - Registration details entered.
+20:42:57.713 [TestNG-PoolService-2] INFO  - Agreed to Privacy Policy and submitted registration.
+20:42:59.587 [TestNG-PoolService-2] INFO  - Confirmation message validated.
+20:43:01.405 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/charts/_rels/chart1.xml.rels
+20:43:01.412 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/charts/_rels/chart2.xml.rels
+20:43:01.414 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/charts/_rels/chart3.xml.rels
+20:43:01.418 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/charts/_rels/chart5.xml.rels
+20:43:01.420 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/charts/_rels/chart8.xml.rels
+20:43:01.424 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing1.xml.rels
+20:43:01.427 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing5.xml.rels
+20:43:01.429 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing7.xml.rels
+20:43:01.431 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing8.xml.rels
+20:43:01.434 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing10.xml.rels
+20:43:01.437 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/drawings/_rels/drawing11.xml.rels
+20:43:01.439 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/externalLinks/_rels/externalLink1.xml.rels
+20:43:01.443 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:43:01.450 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:43:01.455 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+20:43:01.459 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+20:43:01.462 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+20:43:01.466 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+20:43:01.470 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+20:43:01.475 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+20:43:01.478 [TestNG-test-Surefire test-1] DEBUG - Parsing relationship: /_rels/.rels
+20:43:01.998 [TestNG-test-Surefire test-1] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+20:43:02.008 [TestNG-test-Surefire test-1] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+20:43:02.009 [TestNG-test-Surefire test-1] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+20:43:02.010 [TestNG-test-Surefire test-1] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+20:43:02.011 [TestNG-test-Surefire test-1] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+20:43:02.015 [TestNG-test-Surefire test-1] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+20:43:02.067 [TestNG-test-Surefire test-1] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+20:43:02.069 [TestNG-test-Surefire test-1] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+20:43:02.078 [TestNG-test-Surefire test-1] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+20:43:02.082 [TestNG-test-Surefire test-1] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+20:43:02.083 [TestNG-test-Surefire test-1] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+20:43:02.085 [TestNG-test-Surefire test-1] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+20:43:02.087 [TestNG-test-Surefire test-1] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+20:43:02.088 [TestNG-test-Surefire test-1] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+20:43:02.197 [TestNG-test-Surefire test-1] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+20:43:02.199 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle themefd26doctype
+20:43:02.349 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stylesheet5d8bdoctype
+20:43:02.370 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctstylesheet4257type
+20:43:02.376 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctcolors6579type
+20:43:02.384 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctfonts6623type
+20:43:02.391 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctfont14d8type
+20:43:02.405 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctfills2c6ftype
+20:43:02.412 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctfill550ctype
+20:43:02.419 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctborders0d66type
+20:43:02.427 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctborderf935type
+20:43:02.435 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctcellxfs1322type
+20:43:02.445 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctxf97f7type
+20:43:02.456 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+20:43:02.464 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctdxfsb26atype
+20:43:02.473 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle cttablestyles872ftype
+20:43:02.483 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle sstf81fdoctype
+20:43:02.494 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctsst44f3type
+20:43:02.520 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctrsta472type
+20:43:02.589 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle calcchainfc37doctype
+20:43:02.596 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctcalcchain5a0btype
+20:43:02.602 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle externallinkb4c2doctype
+20:43:02.612 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctexternallink966etype
+20:43:02.618 [TestNG-test-Surefire test-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+20:43:02.625 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctdrawing2748type
+20:43:02.647 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle chartspace36e0doctype
+20:43:02.660 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctchartspacef9b4type
+20:43:02.675 [TestNG-test-Surefire test-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+20:43:02.675 [TestNG-test-Surefire test-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+20:43:02.675 [TestNG-test-Surefire test-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+20:43:02.676 [TestNG-test-Surefire test-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+20:43:02.705 [TestNG-test-Surefire test-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+20:43:02.706 [TestNG-test-Surefire test-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+20:43:02.723 [TestNG-test-Surefire test-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+20:43:02.741 [TestNG-test-Surefire test-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+20:43:02.742 [TestNG-test-Surefire test-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+20:43:02.756 [TestNG-test-Surefire test-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+20:43:02.772 [TestNG-test-Surefire test-1] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+20:43:02.773 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle workbookec17doctype
+20:43:02.788 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctworkbook83c3type
+20:43:02.803 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctsheets49fdtype
+20:43:02.811 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctsheet4dbetype
+20:43:02.817 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle strelationshipid1e94type
+20:43:02.824 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle worksheetf539doctype
+20:43:02.833 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctworksheet530dtype
+20:43:02.866 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctcols627ctype
+20:43:02.876 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctcola95ftype
+20:43:02.947 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctsheetdata8408type
+20:43:02.973 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctrowdd39type
+20:43:03.013 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctcell842btype
+20:43:03.048 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stcellrefe4e0type
+20:43:03.133 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctcellformula3583type
+20:43:03.151 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stcellformulatypee2cdtype
+20:43:03.170 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctexternalreferencesd77ctype
+20:43:03.174 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctexternalreference945ftype
+20:43:03.185 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctdefinednamesce48type
+20:43:03.191 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctdefinedname9413type
+20:43:03.203 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stxstringf179type
+20:43:03.221 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stsheetstate158btype
+20:43:03.272 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stcelltypebf95type
+20:43:03.300 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctsheetprotection22f7type
+20:43:03.389 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stnumfmtid76fbtype
+20:43:03.395 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stfontid9d63type
+20:43:03.400 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stfillida097type
+20:43:03.405 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stborderid1a80type
+20:43:03.411 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stcellstylexfid70c7type
+20:43:03.426 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctcellalignmentb580type
+20:43:03.436 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stverticalalignmentd35ctype
+20:43:03.443 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctborderpre497type
+20:43:03.450 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stborderstylec774type
+20:43:03.459 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctcolord2c2type
+20:43:03.478 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctfontname2dc3type
+20:43:03.484 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctfontsizeb3b9type
+20:43:03.489 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctbooleanproperty1f3ctype
+20:43:03.526 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stunsignedinthex27datype
+20:43:03.546 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle sthorizontalalignmentf92etype
+20:43:03.586 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctdrawing44fdtype
+20:43:03.591 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctchartc108type
+20:43:03.595 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle cttitleb54etype
+20:43:03.627 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle cttx9678type
+20:43:03.630 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle cttextbodya3catype
+20:43:03.635 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle cttextparagraphcaf2type
+20:43:03.642 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctregulartextrun7e3dtype
+20:43:03.674 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctplotarea106etype
+20:43:03.686 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctcatax7159type
+20:43:03.695 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctunsignedinte8ectype
+20:43:03.702 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctvalaxd06etype
+20:43:03.712 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctbarchart4151type
+20:43:03.729 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctbardir5f42type
+20:43:03.743 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctbarser960ftype
+20:43:03.750 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctaxdatasource1440type
+20:43:03.756 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctnumdatasourcef0bbtype
+20:43:03.764 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctstrref5d1atype
+20:43:03.771 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctstrdatad58btype
+20:43:03.778 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctnumref062ftype
+20:43:03.785 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctnumdata4f16type
+20:43:03.857 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctworkbookpr03a5type
+20:43:03.871 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctbookviewsb864type
+20:43:03.878 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctbookviewf677type
+20:43:03.891 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle propertiesee84doctype
+20:43:03.895 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctproperties3f10type
+20:43:03.910 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle properties288cdoctype
+20:43:03.915 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctproperties2c18type
+20:43:03.930 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctfontfamily685ctype
+20:43:03.935 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stfontfamily9c6ctype
+20:43:03.943 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctfontschemebf5dtype
+20:43:03.953 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stfontschemef36dtype
+20:43:03.958 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctpatternfill7452type
+20:43:03.966 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stpatterntype7939type
+20:43:03.974 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctsheetformatprdef7type
+20:43:03.981 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctsheetviewsb918type
+20:43:03.986 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctsheetview0f43type
+20:43:04.000 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctsheetdimensiond310type
+20:43:04.005 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stref90a2type
+20:43:04.016 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctpagemargins5455type
+20:43:04.032 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctstrval86cctype
+20:43:04.041 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctnumval2fe1type
+20:43:04.050 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctpaneaab1type
+20:43:04.059 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stpane2ac1type
+20:43:04.064 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle stpanestateae58type
+20:43:04.068 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctselectionca2btype
+20:43:04.085 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle cttwocellanchor1e8dtype
+20:43:04.091 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctmarkeree8etype
+20:43:04.097 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle strowidf4cftype
+20:43:04.133 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctcalccellb960type
+20:43:04.152 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctmergecells1242type
+20:43:04.160 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctmergecelle8d9type
+20:43:04.383 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctworkbookprotection56bctype
+20:43:04.467 [TestNG-test-Surefire test-1] TRACE - Resolving type for handle ctnumfmtsb58btype
+20:43:04.609 [TestNG-test-Surefire test-1] DEBUG - Save content types part
+20:43:05.090 [TestNG-test-Surefire test-1] DEBUG - Save package relationships
+20:43:05.113 [TestNG-test-Surefire test-1] DEBUG - Save part 'docProps/app.xml'
+20:43:05.114 [TestNG-test-Surefire test-1] DEBUG - Save part 'docProps/core.xml'
+20:43:05.127 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/charts/chart1.xml'
+20:43:05.132 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/charts/chart2.xml'
+20:43:05.136 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/charts/chart3.xml'
+20:43:05.140 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/charts/chart4.xml'
+20:43:05.141 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/charts/chart5.xml'
+20:43:05.145 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/charts/chart6.xml'
+20:43:05.145 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/charts/chart7.xml'
+20:43:05.146 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/charts/chart8.xml'
+20:43:05.151 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/charts/chart9.xml'
+20:43:05.152 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/charts/chart10.xml'
+20:43:05.152 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/drawings/drawing1.xml'
+20:43:05.159 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/drawings/drawing2.xml'
+20:43:05.162 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/drawings/drawing3.xml'
+20:43:05.164 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/drawings/drawing4.xml'
+20:43:05.165 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/drawings/drawing5.xml'
+20:43:05.172 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/drawings/drawing6.xml'
+20:43:05.175 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/drawings/drawing7.xml'
+20:43:05.181 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/drawings/drawing8.xml'
+20:43:05.187 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/drawings/drawing9.xml'
+20:43:05.188 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/externalLinks/externalLink1.xml'
+20:43:05.192 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+20:43:05.193 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+20:43:05.193 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/printerSettings/printerSettings3.bin'
+20:43:05.194 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/printerSettings/printerSettings4.bin'
+20:43:05.194 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/printerSettings/printerSettings7.bin'
+20:43:05.195 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/sharedStrings.xml'
+20:43:05.195 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/styles.xml'
+20:43:05.196 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/theme/theme1.xml'
+20:43:05.197 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/workbook.xml'
+20:43:05.202 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+20:43:05.206 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+20:43:05.211 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+20:43:05.216 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+20:43:05.219 [TestNG-test-Surefire test-1] DEBUG - Save part 'xl/worksheets/sheet8.xml'
